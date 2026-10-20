@@ -12,7 +12,7 @@ export const profile = {
 };
 
 export const stats = [
-  { value: "4+", label: "Years shipping production software" },
+  { value: "3+", label: "Years shipping production software" },
   { value: "5+", label: "Platforms built end to end" },
   { value: "1,000+", label: "Downloads on Google Play" },
   { value: "4.3/5", label: "GreenMarket NG app rating" },
